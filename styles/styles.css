@@ -1,0 +1,72 @@
+h1, h2, h3 {
+    font-family: Merriweather, serif;
+    text-align: center
+}
+
+p {
+    font-family: Open Sans Condensed, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 24px;
+}
+
+#h01 {
+    font-family: Merriweather, serif;
+    font-size: 72px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    text-shadow: 3px 3px 7px black;
+}
+#pic01 {
+    margin-top: 60px;
+    border: 5px solid #FFF;
+    box-shadow: 3px 3px 3px black;
+}
+
+#top {
+    background-color: purple;
+    padding-bottom: 25px;
+}
+
+body {
+    background-color: #00539F;
+}
+
+#h02 {
+    font-family: Merriweather, serif;
+    font-size: 60px;
+    color: #333;
+}
+
+#p02 {
+    padding: 20px 0px 20px 30px;
+    margin-top: -20px;
+    margin-right: 35px
+}
+
+#p01 {
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 3px 3px 7px black;
+}
+
+
+
+.jumbotron {
+    margin: 30px 0px 30px 0px;
+}
+
+#portfolio {
+    background-color: #00539F;
+}
+
+#h03 {
+    font-family: Merriweather, serif;
+    font-size: 60px;
+    color: #555;
+    margin-top: -30px;
+}
+
+html {
+    background-color: #00539F;
+}
